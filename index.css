@@ -1,0 +1,51 @@
+.firstpart{
+  position: absolute;
+  height: 150px;
+  background-color: yellow;
+  width: 150px;
+  border-style: solid;
+  border-width: 10px;
+  top: 30px;
+  left: 0px;
+}
+.Secondpart{
+  position:absolute;
+  height: 150px;
+  width: 150px;
+  background-color: blue;
+  top: 200px;
+  left: 170px;
+  bottom: 600px;
+}
+.Thirdpart{
+    position: absolute;
+  height: 150px;
+  width: 150px;
+  background-color: red;
+  top: 350px;
+  left: 320px;
+}
+.fourthpart{
+  position: relative;
+height: 150px;
+width: 150px;
+background-color: red;
+top: 600px;
+left: 645px;
+
+}
+.fivethpart{
+  position: relative;
+height: 150px;
+width: 150px;
+background-color: blue;
+top: 450px;
+left: 800px;
+}
+.sixthpart{
+   position: relative;
+height: 150px;
+width: 150px;
+background-color: green;
+top: 300px;
+left: 490px;}
